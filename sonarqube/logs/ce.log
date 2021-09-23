@@ -1,0 +1,26 @@
+2021.09.23 06:53:58 INFO  ce[][o.s.p.ProcessEntryPoint] Gracefully stopping process
+2021.09.23 06:53:58 INFO  ce[][o.s.ce.app.CeServer] Compute Engine is stopping...
+2021.09.23 06:53:58 INFO  ce[][o.s.c.t.CeProcessingSchedulerImpl] Gracefully stopping workers...
+2021.09.23 06:53:58 INFO  ce[][o.s.ce.app.CeServer] Compute Engine is stopped
+2021.09.23 07:34:50 INFO  ce[][o.s.p.ProcessEntryPoint] Starting ce
+2021.09.23 07:34:50 INFO  ce[][o.s.ce.app.CeServer] Compute Engine starting up...
+2021.09.23 07:34:50 INFO  ce[][o.s.s.e.EsClientProvider] Connected to local Elasticsearch: [http://localhost:9001]
+2021.09.23 07:34:51 INFO  ce[][o.sonar.db.Database] Create JDBC data source for jdbc:h2:tcp://127.0.0.1:9092/sonar
+2021.09.23 07:34:52 WARN  ce[][o.s.db.dialect.H2] H2 database should be used for evaluation purpose only.
+2021.09.23 07:34:54 INFO  ce[][o.s.s.p.ServerFileSystemImpl] SonarQube home: /opt/sonarqube
+2021.09.23 07:34:54 INFO  ce[][o.s.c.c.CePluginRepository] Load plugins
+2021.09.23 07:34:57 INFO  ce[][o.s.c.c.ComputeEngineContainerImpl] Running Community edition
+2021.09.23 07:34:57 INFO  ce[][o.s.ce.app.CeServer] Compute Engine is operational
+2021.09.23 08:09:05 INFO  ce[][o.s.p.ProcessEntryPoint] Gracefully stopping process
+2021.09.23 08:09:06 INFO  ce[][o.s.ce.app.CeServer] Compute Engine is stopping...
+2021.09.23 08:09:06 INFO  ce[][o.s.c.t.CeProcessingSchedulerImpl] Gracefully stopping workers...
+2021.09.23 08:09:07 INFO  ce[][o.s.ce.app.CeServer] Compute Engine is stopped
+2021.09.23 10:36:52 INFO  ce[][o.s.p.ProcessEntryPoint] Starting ce
+2021.09.23 10:36:52 INFO  ce[][o.s.ce.app.CeServer] Compute Engine starting up...
+2021.09.23 10:36:53 INFO  ce[][o.s.s.e.EsClientProvider] Connected to local Elasticsearch: [http://localhost:9001]
+2021.09.23 10:36:54 INFO  ce[][o.sonar.db.Database] Create JDBC data source for jdbc:h2:tcp://127.0.0.1:9092/sonar
+2021.09.23 10:36:54 WARN  ce[][o.s.db.dialect.H2] H2 database should be used for evaluation purpose only.
+2021.09.23 10:36:56 INFO  ce[][o.s.s.p.ServerFileSystemImpl] SonarQube home: /opt/sonarqube
+2021.09.23 10:36:56 INFO  ce[][o.s.c.c.CePluginRepository] Load plugins
+2021.09.23 10:36:59 INFO  ce[][o.s.c.c.ComputeEngineContainerImpl] Running Community edition
+2021.09.23 10:36:59 INFO  ce[][o.s.ce.app.CeServer] Compute Engine is operational
